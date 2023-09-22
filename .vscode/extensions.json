@@ -1,0 +1,18 @@
+{
+  // @see https://code.visualstudio.com/docs/editor/extension-gallery#_workspace-recommended-extensions
+  "recommendations": [
+    // Syntax highlighting and intilisence for `Vue` files:
+    "octref.vetur",
+    "dariofuzinato.vue-peek",
+
+    // Code format:
+    "EditorConfig.editorconfig",
+
+    // Linting:
+    "shinnn.stylelint",
+    "dbaeumer.vscode-eslint",
+
+    // Testing:
+    "orta.vscode-jest"
+  ]
+}

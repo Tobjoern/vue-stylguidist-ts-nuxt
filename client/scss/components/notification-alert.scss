@@ -1,0 +1,12 @@
+.vue-notification {
+  border-radius: 8px;
+  border-left: none;
+  padding: 12px 18px;
+  margin: 8px;
+  margin-right: 12px;
+
+  .notification-content {
+    font-size: 14px;
+    font-weight: 600;
+  }
+}

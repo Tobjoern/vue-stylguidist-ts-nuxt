@@ -1,0 +1,13 @@
+// This file should contain all SCSS variables,
+// that are used in the project.
+
+// Global exports
+:export {
+  // Any values that need to be accessible from JavaScript
+  // outside of a Vue component can be defined here, prefixed
+  // with `var-` to avoid conflicts with existing variables.
+  // For example:
+  // $var-color-white: $color-white;
+}
+
+$navbarHeight: 70px;
